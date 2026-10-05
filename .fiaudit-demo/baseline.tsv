@@ -1,0 +1,3 @@
+path	content_hash	metadata_hash	size	modified	mode	uid	gid
+./trainer-demo/config.txt	ca7efb4d66cee32467d2334fa6de84754569292bf6b0770117e28fed49a12f7e	5c1c69135c3ad7a3719acbff909e2438e3afcb0d7d6ede72350e61cae51179f8	22	1791051233	511	1000	1000
+./trainer-demo/users.txt	8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918	e20fb44a6f24cb2eb570b5fcf52c629ce1feb55ec18c48ea30cfdd74e83d0d30	5	1791051244	511	1000	1000
